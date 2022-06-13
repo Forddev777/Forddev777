@@ -1,6 +1,6 @@
 
 ## Hi 👋
-<img align="right" src="https://github.com/Forddev777/Forddev777/blob/main/giphy.gif" alt="Hola Coders" width="450" height="400"/> 
+<img align="right" src="https://github.com/Forddev777/Forddev777/blob/main/giphy.gif" /> 
 ##### I am a students.
 
 - 🔭 I’m currently working on
@@ -20,5 +20,6 @@
 <div>
   <a href="https://github.com/Forddev777">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Forddev777&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Forddev777&layout=compact&langs_count=6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Forddev777&layout=compact&langs_count=6"/>![Uploading image.gif…]()
+
 </div>

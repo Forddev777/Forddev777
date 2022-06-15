@@ -1,6 +1,6 @@
 
 ## Hi 👋
-<img align="right" src="https://github.com/Forddev777/Forddev777/blob/main/giphy.gif" alt="Hola Coders" width="500" height="360"/> 
+<img align="right" src="https://github.com/Forddev777/Forddev777/blob/main/giphy.gif" alt="Hola Coders" width="500" height="320"/> 
 ##### I am a students.
 
 - 🔭 I’m currently working on

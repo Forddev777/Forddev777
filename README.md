@@ -13,3 +13,5 @@
 
 ##### Online Presence
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Forddev777&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Forddev777&langs_count=5&theme=tokyonight)]()

@@ -1,16 +1,26 @@
-
-## Hi 👋
-<img align="right" src="https://github.com/Forddev777/Forddev777/blob/main/giphy.gif" alt="Hola Coders" width="500" height="320"/> 
-##### I am a students.
+<p align="center">
+  <a href="https://anuraghazra.github.io"><img align="right" src="https://github.com/Forddev777/Forddev777/blob/main/giphy.gif" </a>
+</p>
+<br /><br /><br />
+## Hi 👋 
 - 🔭 I’m currently working on
+  
 - 🌱 I’m currently learning 
+  
 - 🤔 I’m looking for help with 
+  
 - 💬 Ask me about 
+  
 - 📫 How to reach me: 
+  
 - 😄 Pronouns: He/His
+  
 - ⚡ Fun fact: I paint at times!
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Forddev777&theme=radical&show_icons=true)
+<p align="center"> 
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=vue-dark"> 
+  <img  alt="Forddev777's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Forddev777?cardType=level&theme=vue-dark" />  
+</a>
+ </p>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>

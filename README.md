@@ -1,5 +1,7 @@
 <p align="center">
-  <a href="https://anuraghazra.github.io"><img align="right" src="https://github.com/Forddev777/Forddev777/blob/main/giphy.gif" </a>
+  <a href="https://anuraghazra.github.io">
+    <img align="right" src="https://github.com/Forddev777/Forddev777/blob/main/giphy.gif" /> 
+  </a>
 </p>
 <br /><br /><br />
 ## Hi 👋 
@@ -16,6 +18,7 @@
 - 😄 Pronouns: He/His
   
 - ⚡ Fun fact: I paint at times!
+  
 <p align="center"> 
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=vue-dark"> 
   <img  alt="Forddev777's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Forddev777?cardType=level&theme=vue-dark" />  
